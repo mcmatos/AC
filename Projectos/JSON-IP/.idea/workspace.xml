@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="133b8886-179b-4e38-be32-ae2db2333a7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Projectos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/ACPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/CodeCadet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/MasterCoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomerSpringMVC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomerSpringMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/org/academiadecodigo/bootcamp22/exceptions/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/org/academiadecodigo/bootcamp22/exceptions/FileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/org/academiadecodigo/bootcamp22/exceptions/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/org/academiadecodigo/bootcamp22/exceptions/FileNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/org/academiadecodigo/bootcamp22/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughPermissionsExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughSpaceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileCopy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileCopy/src/org/academiadecodigo/bootcamp22/filecopy/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileCopy/src/org/academiadecodigo/bootcamp22/filecopy/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileCopy/src/org/academiadecodigo/bootcamp22/filecopy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileCopy/src/org/academiadecodigo/bootcamp22/filecopy/WordReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HistogramHashMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HistogramHashMap/src/org/academiadecodigo/bootcamp22/histogramhashmap/HistogramComposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HistogramHashMap/src/org/academiadecodigo/bootcamp22/histogramhashmap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HistogramHashMap/src/org/academiadecodigo/bootcamp22/histogramhashmap/StringIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HostNameResolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HostNameResolution/src/org/academiadecodigo/bootcamp22/hostnameresolution/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HostNameResolution/src/org/academiadecodigo/bootcamp22/hostnameresolution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HostNameResolution/src/org/academiadecodigo/bootcamp22/hostnameresolution/MainServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HostNameResolution/src/org/academiadecodigo/bootcamp22/hostnameresolution/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegerRange/src/org/academiadecodigo/bootcamp22/integerrange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegerRange/src/org/academiadecodigo/bootcamp22/integerrange/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegerRange/src/org/academiadecodigo/bootcamp22/integerrange/RangeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/prompt-jdbc-skeleton/.idea/libraries/mysql_connector_java_5_1_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/prompt-jdbc-skeleton/.idea/libraries/mysql_connector_java_8_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/prompt-jdbc-skeleton/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/prompt-jdbc-skeleton/lib/mysql-connector-java-8.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/prompt-jdbc-skeleton/src/org/academiadecodigo/bootcamp/Persistence/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/prompt-jdbc-skeleton/src/org/academiadecodigo/bootcamp/service/JdbcUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/MyPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/Controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/factories/AccountFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/AbstractModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/Recipient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/account/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/account/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/model/account/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/H2WebServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/JpaBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/SessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/TransactionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/RecipientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/jpa/GenericJpaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/jpa/JpaAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/jpa/JpaCustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/dao/jpa/JpaRecipientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/persistence/jpa/JpaSessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/mock/AbstractMockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/mock/MockAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/mock/MockCustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/java/org/academiadecodigo/asciimos/services/mock/MockRecipientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/resources/db/javabank.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/resources/db/test-data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javabank/src/main/webapp/WEB-INF/customerList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/MagicLamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Demon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Genie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Grumpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Happy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/MagicLamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/.idea/libraries/simplegraphics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/Resources/MapEditor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/lib/simplegraphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/src/org/academiadecodigo/bootcamp22/MapEditor/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/src/org/academiadecodigo/bootcamp22/MapEditor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/src/org/academiadecodigo/bootcamp22/MapEditor/MapEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/src/org/academiadecodigo/bootcamp22/MapEditor/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriorityQueue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriorityQueue/src/org/academiadecodigo/bootcamp22/priorityqueue/Importance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriorityQueue/src/org/academiadecodigo/bootcamp22/priorityqueue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriorityQueue/src/org/academiadecodigo/bootcamp22/priorityqueue/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProducerConsumer/src/org/academiadecodigo/bootcamp/concurrency/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/.idea/libraries/prompt_view_0_2_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/PromptViewLogin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/lib/prompt-view-0.2.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/src/org/academiadecodigo/bootcamp22/promptviewlogin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/src/org/academiadecodigo/bootcamp22/promptviewlogin/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/src/org/academiadecodigo/bootcamp22/promptviewlogin/UserHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PromptViewLogin/src/org/academiadecodigo/bootcamp22/promptviewlogin/UserStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/ServerChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/org/academiadecodigo/bootcamp22/serverchat/Client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/org/academiadecodigo/bootcamp22/serverchat/Client/ClientListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/org/academiadecodigo/bootcamp22/serverchat/Client/MainClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/org/academiadecodigo/bootcamp22/serverchat/Server/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/org/academiadecodigo/bootcamp22/serverchat/Server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/org/academiadecodigo/bootcamp22/serverchat/Server/ServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServerChat/src/org/academiadecodigo/bootcamp22/serverchat/Server/ServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/SniperElite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/SniperRifle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/Destroyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/ObjectType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/barrels/Barrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/barrels/BarrelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/barrels/BarrelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/ArmouredEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/EnemyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/EnemyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/SoldierEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/DarthVader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/R2D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/Yoda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/TCPClientServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/src/org/academiadecodigo/bootcamp22/TCPClientServer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/src/org/academiadecodigo/bootcamp22/TCPClientServer/MainClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/src/org/academiadecodigo/bootcamp22/TCPClientServer/MainServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClientServer/src/org/academiadecodigo/bootcamp22/TCPClientServer/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLSourceViewer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLSourceViewer/src/org/academiadecodigo/bootcamp22/urlsourceviewer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../URLSourceViewer/src/org/academiadecodigo/bootcamp22/urlsourceviewer/SourceViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniqueWordSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniqueWordSet/src/org/academiadecodigo/bootcamp22/UniqueWordSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UniqueWordSet/src/org/academiadecodigo/bootcamp22/UniqueWordSet/UniqueWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/Resources/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/Resources/Eu.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/Resources/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/Resources/Photo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/Resources/Video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/Resources/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/WebServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/src/org/academiadecodigo/bootcamp22/webserver/HTTPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/src/org/academiadecodigo/bootcamp22/webserver/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/src/org/academiadecodigo/bootcamp22/webserver/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/guessNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/guessNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/randomGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstGameLibgdx/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../firstGameLibgdx/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1293806422">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="344" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="344" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="64" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/MyPojo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
+                <element signature="e#962#963#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
+                <element signature="e#1134#1135#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1194#1195#0" expanded="true" />
+                <element signature="e#1236#1237#0" expanded="true" />
+                <element signature="e#1270#1271#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+                <element signature="e#1364#1365#0" expanded="true" />
+                <element signature="e#1394#1395#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/MyPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="491" />
+    <option name="y" value="58" />
+    <option name="width" value="1401" />
+    <option name="height" value="941" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JSON-IP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSON-IP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON-IP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSON-IP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON-IP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSON-IP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON-IP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSON-IP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON-IP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSON-IP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="asciimos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON-IP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSON-IP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553796609379" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.asciimos.Main" />
+      <module name="JSON-IP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.academiadecodigo.asciimos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133b8886-179b-4e38-be32-ae2db2333a7e" name="Default Changelist" comment="" />
+      <created>1553782755980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553782755980</updated>
+      <workItem from="1553782761608" duration="2989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2989000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="491" y="58" width="1401" height="941" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944812" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32979977" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32979977" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32979977" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/MyPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/academiadecodigo/asciimos/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="64" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

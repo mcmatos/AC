@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f9544d9-66c5-49ce-be4a-3827101948b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/ACPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/CodeCadet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACPersonExtends/src/org/academiadecodigo/bootcamp22/ACPersonExtends/MasterCoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/org/academiadecodigo/bootcamp22/Bank/Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughPermissionsExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughSpaceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotel/src/org/academiadecodigo/bootcamp22/Hotel/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/MagicLamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Demon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Genie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Grumpy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Happy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/MagicLamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MagicLamp/src/org/academiadecodigo/bootcamp22/MagicLamp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RockPS/src/org/academiadecodigo/bootcamp22/RockPS/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/SniperElite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/SniperRifle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/Destroyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/ObjectType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/barrels/Barrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/barrels/BarrelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/barrels/BarrelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/ArmouredEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/EnemyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/EnemyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SniperElite/src/org/academiadecodigo/bootcamp22/sniperelite/gameobjects/enemies/SoldierEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/DarthVader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/R2D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StarWarsChar/src/org/academiadecodigo/bootcamp22/StarWarsChar/Yoda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/guessNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/guessNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessNumber/src/org/academiadecodigo/bootcamp22/guessNumber/randomGen.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="666721785">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1364" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1364" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/File.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughSpaceException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileNotFoundException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughPermissionsExceptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/File.java" />
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughPermissionsExceptions.java" />
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileManager.java" />
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughSpaceException.java" />
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileException.java" />
+        <option value="$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="114" />
+    <option name="y" value="23" />
+    <option name="width" value="1225" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549364577890" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.bootcamp22.exceptions.Main" />
+      <module name="Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.academiadecodigo.bootcamp22.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f9544d9-66c5-49ce-be4a-3827101948b7" name="Default Changelist" comment="" />
+      <created>1549289317032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549289317032</updated>
+      <workItem from="1549289318369" duration="4215000" />
+      <workItem from="1549359294346" duration="4100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8315000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="114" y="23" width="1225" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19188504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3299435" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileNotFoundEception.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughPermissionsExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/NotEnoughSpaceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/FileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/academiadecodigo/bootcamp22/exceptions/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

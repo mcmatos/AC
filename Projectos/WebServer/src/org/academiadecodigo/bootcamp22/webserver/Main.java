@@ -1,0 +1,24 @@
+package org.academiadecodigo.bootcamp22.webserver;
+
+import java.io.IOException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        ExecutorService cachedThreadPool = Executors.newCachedThreadPool();
+
+        try {
+            Server server = new Server(8080, cachedThreadPool);
+            server.start();
+
+        } catch (IOException e) {
+            System.err.println(e.getMessage());
+
+        } finally {
+            cachedThreadPool.shutdown();
+        }
+    }
+}
